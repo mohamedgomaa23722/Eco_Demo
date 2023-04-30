@@ -79,3 +79,7 @@ body {
     color: #919aa3; }
 
 /*# sourceMappingURL=login.css.map */
+
+.error {
+  color: #ff0000;
+}
